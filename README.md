@@ -75,5 +75,5 @@ Bu proje, UDP protokolü ile düşük gecikmeli çok oyunculu oyun geliştirmeni
 
 ## 👥 Katılımcılar
 
-- [kerem-apaydin](https://github.com/keremapaydin) 
+- [kerem-apaydin](https://github.com/kerem-apaydin) 
 - [arifbatuhanbahar](https://github.com/arifbatuhanbahar)
